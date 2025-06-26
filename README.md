@@ -39,11 +39,11 @@ To stay within acceptable color ranges, the operation makes use of modulo 256.
 
 ⚠️ Limitations
 
-   Not secure for real-world encryption.
+   - Not secure for real-world encryption.
 
-   Works only on RGB images
+   - Works only on RGB images
 
-   Use .png or .bmp formats for better results (JPEG can distort pixels due to compression).
+   - Use .png or .bmp formats for better results (JPEG can distort pixels due to compression).
 
 
 

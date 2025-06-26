@@ -45,6 +45,9 @@ To stay within acceptable color ranges, the operation makes use of modulo 256.
 
    - Use .png or .bmp formats for better results (JPEG can distort pixels due to compression).
 
+✍️ Author
+Gautam Kumar
+B.Tech CSE Student | Cybersecurity & Python Enthusiast
 
 
 

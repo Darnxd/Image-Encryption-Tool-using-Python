@@ -14,6 +14,14 @@ My curiosity about how images store data and how we can manipulate pixel values 
 
 This small project was created to teach you how to process images, manipulate pixels, and comprehend how encryption-like logic functions in pictures.
 
+🛠️ How It Works
+
+- Encrypt: This adds a key value to the RGB (Red, Green, and Blue) components of each pixel.
+- Decrypt: To recover the image, subtract the same key from each RGB component.
+
+To stay within acceptable color ranges, the operation makes use of modulo 256.
+
+
 
 
 

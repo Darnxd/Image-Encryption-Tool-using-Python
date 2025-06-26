@@ -2,6 +2,14 @@
 
 A simple image encryption project using Python and the Pillow library.
 
-This tool lets you "encrypt" an image by modifying the RGB values of each pixel using a numeric key — and then decrypt it back by reversing the process.
+It allows users to:
+- Encrypt an image by shifting the RGB values of each pixel.
+- Decrypt the image back using the same numeric key.
+
+This tool **does not use any real cryptography** — it's more of a visual obfuscation method that helps understand how digital images work under the hood.
+
+
+
+
 
 

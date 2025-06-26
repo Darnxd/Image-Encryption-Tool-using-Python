@@ -24,8 +24,10 @@ To stay within acceptable color ranges, the operation makes use of modulo 256.
 ▶️ How to Run
 
 1. Install the required library
-```bash
-pip install pillow
+   
+        pip install pillow
+
+2. Run the script
 
 
 

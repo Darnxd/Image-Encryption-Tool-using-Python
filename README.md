@@ -29,7 +29,14 @@ To stay within acceptable color ranges, the operation makes use of modulo 256.
 
 2. Run the script
 
-       python image_cipher.py
+       python project2.py
+
+3. Follow the menu:
+=== Image Encryption Tool ===
+1. Encrypt Image
+2. Decrypt Image
+Choose (1/2): 
+
 
 
 

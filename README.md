@@ -29,6 +29,8 @@ To stay within acceptable color ranges, the operation makes use of modulo 256.
 
 2. Run the script
 
+       python image_cipher.py
+
 
 
 

@@ -8,6 +8,9 @@ It allows users to:
 
 This tool **does not use any real cryptography** — it's more of a visual obfuscation method that helps understand how digital images work under the hood.
 
+📌 Why I Built This
+
+My curiosity about how images store data and how we can manipulate pixel values grew as I studied Python and cybersecurity concepts
 
 
 

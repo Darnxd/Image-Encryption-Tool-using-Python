@@ -32,6 +32,7 @@ To stay within acceptable color ranges, the operation makes use of modulo 256.
        python project2.py
 
 3. Follow the menu:
+   
   === Image Encryption Tool ===
     1. Encrypt Image
     2. Decrypt Image

@@ -10,7 +10,7 @@ This tool **does not use any real cryptography** — it's more of a visual obfus
 
 📌 Why I Built This
 
-My curiosity about how images store data and how we can manipulate pixel values grew as I studied Python and cybersecurity concepts
+My curiosity about how images store data and how we can manipulate pixel values grew as I studied Python and cybersecurity concepts.
 
 This small project was created to teach you how to process images, manipulate pixels, and comprehend how encryption-like logic functions in pictures.
 
@@ -41,7 +41,7 @@ To stay within acceptable color ranges, the operation makes use of modulo 256.
 
    - Not secure for real-world encryption.
 
-   - Works only on RGB images
+   - Works only on RGB images.
 
    - Use .png or .bmp formats for better results (JPEG can distort pixels due to compression).
 
